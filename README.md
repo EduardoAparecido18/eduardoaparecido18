@@ -2,7 +2,7 @@
 🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Estudando **Dart**, **Flutter**, **Banco de dados**, **Inglês** e as matérias da faculdade<br>⚡ Interessado em **Programação, Desenvolvimento Mobile e apps criativos**<br>🌱 Buscando me desenvolver na área tech
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduardoapa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eduardo-aparecido-455a372ba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eaparecido2003@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=EduardoAparecido18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAparecido18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Contribuições:
 ![](https://github-contributor-stats.vercel.app/api?username=EduardoAparecido18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
