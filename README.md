@@ -1,5 +1,5 @@
 # 💫 Óla, me chamo Eduardo
-🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Estudando **Dart**, **Flutter**, **Banco de dados**, **Inglês** e as matérias da faculdade<br>⚡ Interessado em **Programação, Desenvolvimento Mobile e apps criativos**<br>🌱 Buscando me desenvolver na área tech
+🔭 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Estudando **Dart**, **Flutter**, **Banco de dados**, **Inglês**<br>⚡ Interessado em **Programação, Desenvolvimento Mobile e apps criativos**<br>🌱 Buscando me desenvolver na área tech
 
 
 ## 🌐 Contatos:
